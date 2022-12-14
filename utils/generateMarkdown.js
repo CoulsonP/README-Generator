@@ -38,7 +38,7 @@ ${data.Test}
 ${data.License}
 ## Question
 For any question reach out to me at ${data.Email}
-or look at ${data.github}
+or look at ${data.github} on github.
 `;
 }
 

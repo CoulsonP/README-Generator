@@ -1,4 +1,4 @@
-# Readme
+# ReadMe generator
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   # Table of Contents
 1. [Description](#description)
@@ -9,17 +9,17 @@
 6. [License](#license)
 7. [Question](#question)
 ## Description
-make readme
+create a readme file for the user
 ## Installation
-added
+hello
 ## Usage
-readme
+hello
 ## Contribution
-me
+hello
 ## Test
-test
+hello
 ## Liscense
 MIT
 ## Question
-For any question reach out to me at coulson
-or look at coulsonp
+For any question reach out to me at coulsonp@icloud.com
+or look at Coulsonp
